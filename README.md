@@ -27,3 +27,6 @@ portfolio-website/
 
 ```
 # Frontend: HTML5, CSS3, JavaScript
+Framework: React.js / Next.js (choose one)
+Styling: Tailwind CSS / Sass / Styled Components
+Deployment: Vercel / Netlify / GitHub Pages
