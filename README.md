@@ -24,3 +24,6 @@ portfolio-website/
 ├── .gitignore
 ├── package.json
 └── README.md
+
+```
+# Frontend: HTML5, CSS3, JavaScript
