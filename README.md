@@ -37,4 +37,5 @@ Project showcase section ,
 About me + skills + resume ,
 Contact form (EmailJS / Firebase backend) ,
 Dark mode toggle (optional) ,
-Scroll animations (AOS / Framer Motion)
+Scroll animations (AOS / Framer Motion),
+
