@@ -32,7 +32,9 @@ Styling: Tailwind CSS
 Deployment: Firebase
 
 # features
-Responsive design (mobile-first),
-Project showcase section,
-About me + skills + resume,
-Contact form (EmailJS / Firebase backend),
+Responsive design (mobile-first) ,
+Project showcase section ,
+About me + skills + resume ,
+Contact form (EmailJS / Firebase backend) ,
+Dark mode toggle (optional) ,
+Scroll animations (AOS / Framer Motion)
