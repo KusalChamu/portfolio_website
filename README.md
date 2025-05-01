@@ -32,3 +32,5 @@ Styling: Tailwind CSS
 Deployment: Firebase
 
 # features
+Responsive design (mobile-first),
+Project showcase section
