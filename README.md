@@ -30,3 +30,5 @@ portfolio-website/
 Framework: React.js 
 Styling: Tailwind CSS 
 Deployment: Firebase
+
+# features
