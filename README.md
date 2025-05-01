@@ -33,4 +33,6 @@ Deployment: Firebase
 
 # features
 Responsive design (mobile-first),
-Project showcase section
+Project showcase section,
+About me + skills + resume,
+Contact form (EmailJS / Firebase backend),
